@@ -74,6 +74,7 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Styling for participant info in activity cards */
 .activity-card ul {
   margin-top: 10px;
   padding-left: 20px;
@@ -93,6 +94,7 @@ section h3 {
   color: #333;
 }
 
+/* Scrollbar styling for participant list */
 .activity-card ul::-webkit-scrollbar {
   width: 8px;
 }
